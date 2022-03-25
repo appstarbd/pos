@@ -1,4 +1,4 @@
-# Cannabis Retail Softare
+# Cannabis Retail Software
 
 It's a pretty simple web-based point-of-sale, customer loyalty, online-menu system.
 It integrates with BioTrack, MJ Freeway/LeafData and Franwell/METRC or can be used stand-alone.
